@@ -1,7 +1,5 @@
 # AWS Multi-Region Active-Active Architecture Design
 
-**Team:** Y24-SAA-Team135  
-**Course:** 24CC3014-P135  
 **Regions:** Stockholm (`eu-north-1`) and Frankfurt (`eu-central-1`)
 
 ## Live API Demo
