@@ -4,6 +4,18 @@
 **Course:** 24CC3014-P135  
 **Regions:** Stockholm (`eu-north-1`) and Frankfurt (`eu-central-1`)
 
+## Live API Demo
+
+### Region A — Stockholm
+GET /incident/INC001
+
+https://m6j2wmh6y8.execute-api.eu-north-1.amazonaws.com/incident/INC001
+
+### Region B — Frankfurt
+GET /incident/INC001
+
+https://oj39ryo86l.execute-api.eu-central-1.amazonaws.com/incident/INC001
+
 ## Project overview
 
 This project demonstrates a serverless, multi-region application layer on AWS. The same incident API is deployed in two AWS Regions so that both regional stacks can independently receive and process requests.
