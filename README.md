@@ -12,7 +12,7 @@ https://m6j2wmh6y8.execute-api.eu-north-1.amazonaws.com/incident/INC001
 ### Region B — Frankfurt
 GET /incident/INC001
 
-https://oj39ryo86l.execute-api.eu-central-1.amazonaws.com/incident/INC001
+https://oj39ryo86l.execute-api.eu-central-1.amazonaws.com/incident/INC003
 
 ## Project overview
 
